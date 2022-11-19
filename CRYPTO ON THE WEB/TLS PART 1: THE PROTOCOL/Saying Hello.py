@@ -1,0 +1,2 @@
+#Follow the  instructions and the TLS 1.2 Name is "ECDHE-RSA-AES256-GCM-SHA384"
+#I used https://www.site24x7.com/tools/tls-checker.html to get the answer the one provided in the instructions doesnt work.

@@ -1,0 +1,1 @@
+#Follow the instructions > Download wireshark > Filter the IP > count the number of packets from the source IP which is 15

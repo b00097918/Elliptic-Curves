@@ -1,0 +1,1 @@
+#Follow the instructions you will need to check wireshark for the serverhello message copy out the value which will the give the flag which is "67c6bf8ffda56fcb359fba7f0149f85422223cf021ab1a0af701de5dd2091498"
